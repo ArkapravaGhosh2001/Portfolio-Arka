@@ -68,8 +68,8 @@ spacing.fixed.px: 100
 spacing.fixed.px: 20
 
 -- lib.hero-ui-base-text-wrapper:
-firstTitle: Arkaprava
-secondTitle: Ghosh
+firstTitle: I'm
+secondTitle: Arkaprava Ghosh
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: frontend
